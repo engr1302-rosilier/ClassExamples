@@ -18,7 +18,7 @@ int main()
     // now ask for two numbers and print them both back
  	int number1, number2;
     
-    printf("Please enter two numbers: ");
+    printf("\nPlease enter two numbers: ");
     scanf("%d%d", &number1, &number2);
     
     printf("You entered the numbers %d and %d", number1, number2);
