@@ -23,6 +23,7 @@ int main()
    // third problem
    int a=5, b=8;
    
+   // fourth problem
    printf("The value of a is %d", a);
    printf(" and the value of b is %d", b);   
    return 0;
