@@ -38,7 +38,7 @@ int getNumberInRange(int a, int b) {
   int num;
 
   do {
-	puts("Please enter an integer between %d and %d (inclusive): ", a, b);
+	printf("Please enter an integer between %d and %d (inclusive): ", a, b);
 	scanf("%d", &num);
 		
 	if (num < a) {
